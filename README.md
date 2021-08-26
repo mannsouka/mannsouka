@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mannsouka
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+mannsouka/mannsouka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->HI I am Khalid Almansour
+I am intrested in IOS cooding and SATIP m3u coding 
+I will be reach at kamand60@aol.com
+
